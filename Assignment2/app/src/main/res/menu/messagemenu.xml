@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:title="Location"
+        android:icon="@drawable/ic_location_on_white_48dp"
+        app:showAsAction="always"
+        android:id="@+id/sendloc"/>
+    <item
+        android:title="Photo"
+        android:icon="@drawable/ic_insert_photo_white_48dp"
+        app:showAsAction="always"
+        android:id="@+id/sendpic"/>
+</menu>

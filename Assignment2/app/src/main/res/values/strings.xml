@@ -1,0 +1,21 @@
+<!DOCTYPE resources [<!ENTITY sv_ip "192.168.137.1">]>
+<resources>
+    <string name="app_name">Assignment 2</string>
+    <string name="server_send">http://&sv_ip;/lab4_sc/insert.php</string>
+    <string name="upload_image">http://&sv_ip;/lab4_sc/uploadimage.php</string>
+    <string name="get_image">http://&sv_ip;/lab4_sc/getimage.php</string>
+    <string name="sendmessage">http://&sv_ip;/lab4_sc/insertmessage.php</string>
+    <string name="sendloc">http://&sv_ip;/lab4_sc/sendloc.php</string>
+    <string name="retrievemessage">http://&sv_ip;/lab4_sc/retrievemessage.php</string>
+    <string name="server_receive">http://&sv_ip;/lab4_sc/retrive.php</string>
+    <string name="login">http://&sv_ip;/lab4_sc/login.php</string>
+    <string name="permission_rationale" />
+    <string name="error_invalid_password">Invalid Password</string>
+    <string name="error_field_required">Required</string>
+    <string name="error_invalid_email">Email Invalid</string>
+    <string name="server_ip">http://192.168.15.113</string>
+    <string name="prompt_email">Enter User Name</string>
+    <string name="retireveusers">http://&sv_ip;/lab4_sc/retrieveuser.php</string>
+    <string name="findusers">http://&sv_ip;/lab4_sc/findusers.php</string>
+    <string name="title_activity_nearby_users">Map</string>
+</resources>
